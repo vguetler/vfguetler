@@ -59,5 +59,5 @@ I use Python, R, and machine learning to study cybercrime, online extremism, and
 ## 📬 Get in touch
 
 - 🌐 [vguetler.github.io](https://vguetler.github.io)
-- 💼 [linkedin.com/in/vguetler](https://linkedin.com/in/vguetler)
+- 💼 [linkedin.com/in/vguetler](www.linkedin.com/in/vivianguetler)
 - 📧 vguetler@gmail.com
