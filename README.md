@@ -43,7 +43,7 @@ I use Python, R, and machine learning to study cybercrime, online extremism, and
 | [viviancodes-python-tutorial](https://github.com/vguetler/viviancodes-python-tutorial) | Python tutorials for social scientists (YouTube series) | Python, Jupyter |
 | [tidytuesday](https://github.com/vguetler/tidytuesday) | Weekly data visualization challenges | R, ggplot2 |
 
-*Replace the `#` links above with your actual repo URLs as you publish them.*
+
 
 ---
 
